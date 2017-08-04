@@ -1,6 +1,6 @@
 {
   "name": "serverless-authentication-github",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "description": "Github module for Serverless Authentication",
   "main": "lib/index.js",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "url": "https://github.com/zduymz/serverless-authentication-github"
   },
   "dependencies": {
-    "serverless-authentication": "^0.5.0"
+    "serverless-authentication-zzz": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.6.4",
